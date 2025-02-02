@@ -1,0 +1,3 @@
+to jest zapisane na main, po tym jak ktoś  działał
+na nowym branchu 
+ale jeszcze go nie połączył z mainame
